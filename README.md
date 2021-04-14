@@ -26,5 +26,4 @@ This is my first commercial website made in 2019 for Inoxbud.
 - http://www.inoxbud.pl/
 
 ## Sources
-- Desing - https://www.figma.com/file/WHtiMfcNHt4tc7mDamNBYa/CodersCamp2020-Wizytowka?node-id=0%3A1
-- Images - https://www.flaticon.com/
+- Desing - made by Graphic Designer in Figma and Photoshop
